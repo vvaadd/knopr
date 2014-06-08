@@ -1,0 +1,4 @@
+rootProject.name = 'knopr'
+
+include 'main_project', 'library_project'
+
