@@ -1,4 +1,6 @@
 rootProject.name = 'knopr'
 
-include 'main_project', 'library_project'
+include 'core_project'
+include 'model_project'
+include 'rest_project'
 

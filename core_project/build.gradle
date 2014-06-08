@@ -5,8 +5,7 @@ version = '1.0'
 mainClassName = "ru.knopr.Main"
 
 dependencies {
-    compile "org.slf4j:slf4j-simple:1.7.5"
-    compile project(":library_project")
+    compile project(":model_project")
 }
 
 jar {
