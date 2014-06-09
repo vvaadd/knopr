@@ -14,9 +14,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="model_project" exported="" />
     <orderEntry type="module" module-name="core_project" exported="" />
-    <orderEntry type="library" exported="" name="Gradle: slf4j-simple-1.7.5" level="project" />
     <orderEntry type="library" exported="" name="Gradle: jersey-container-servlet-core-2.9" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: slf4j-api-1.7.5" level="project" />
     <orderEntry type="library" exported="" name="Gradle: javax.inject-2.3.0-b05" level="project" />
     <orderEntry type="library" exported="" name="Gradle: javax.ws.rs-api-2.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: javax.annotation-api-1.2" level="project" />
@@ -32,6 +30,9 @@
     <orderEntry type="library" exported="" name="Gradle: jersey-client-2.9" level="project" />
     <orderEntry type="library" exported="" name="Gradle: validation-api-1.1.0.Final" level="project" />
     <orderEntry type="library" exported="" name="Gradle: jersey-server-2.9" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: slf4j-api-1.7.7" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: logback-classic-1.1.2" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: logback-core-1.1.2" level="project" />
   </component>
 </module>
 
