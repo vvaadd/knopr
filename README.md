@@ -1,4 +1,4 @@
 knopr
 =====
 
-Project for printing information
+Project for printing information.
